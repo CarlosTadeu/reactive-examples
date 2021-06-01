@@ -12,7 +12,7 @@
     <artifactId>reactive-examples</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>reactive-examples</name>
-    <description>Spring Boot Reactive Examples</description>
+    <description>Reactive Programming Examples</description>
     <properties>
         <java.version>11</java.version>
     </properties>
